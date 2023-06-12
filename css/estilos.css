@@ -1,0 +1,61 @@
+header{
+    background: rgb(222, 226, 158);
+    height: 50px;
+    margin-top: 0px;
+    display: flex;
+    background-color: transparent;
+  
+}
+
+header nav ul li{
+    display: inline-block;
+}
+
+body{
+    margin: 0px;
+    background: #037F8C;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer{
+    background: #8C8303;
+    color: white;
+}
+
+.my-list li {
+    color: rgb(255, 81, 0);
+  }
+
+.fondo{
+    background-image: url("../imagen/que-ver-en-chile-turismo.jpg");
+    height: 300px;
+    width: 100vw;
+    object-fit: cover;
+    background-size: cover;
+}
+
+.cuadro{
+    
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-content: center; 
+}
+h3{
+    text-align: center;
+    color: white;
+}
+.galeria{
+    
+    width: 300px;
+    margin: 20px;
+}
+.margin-contact{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
